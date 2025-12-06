@@ -3,7 +3,7 @@
 
 Descrizone
 ---
-**L'obbiettivo del progetto è simulare con degli script Python il gioco del Perudo, per un numero di giocatori x, 2 <= x <= 6.**
+**L'obbiettivo del progetto è simulare con degli script Python -- utilizzando un approccio OOP -- il gioco del Perudo, per un numero di giocatori x, 2 <= x <= 6.**
 Il Perudo è un gioco con i dadi molto antico basato sostanzialmente su bluff, probabilità e scommessa, che ha riscoperto popolarità anche grazie al film "Pirati dei
 Caraibi - La maledizione del Forziere Fantasma" proprio perchè era un gioco molto giocato sulle navi in passato.
 
